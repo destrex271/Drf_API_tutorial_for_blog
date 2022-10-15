@@ -1,4 +1,4 @@
-#!/home/akshat/NDev/drftest/venv/bin/python3
+#!/home/akshat/Drf_API_tutorial_for_blog/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
